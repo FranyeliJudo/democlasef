@@ -1,5 +1,5 @@
 def sumar(a, b):
-    return a + b + 1
+    return a + b
 
 #Comentario de prueba
 def dividir(a, b):
